@@ -32,7 +32,7 @@ Run `npm start` to launch the live terminal dashboard.
 ## 🚀 Quick Start
 
 ```bash
-git https://github.com/Itszeeshanrajput/SeedphraseScou.git
+git clone https://github.com/Itszeeshanrajput/SeedphraseScout.git
 cd seedphrase-scout
 npm install
 npm start
